@@ -8,10 +8,10 @@
 
 ## :rocket: Desafios
 
-- [Primeiro HTML](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md)
-- [Página de descrição](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md)
-- [Página de posts e iframe](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-3-pagina-cursos-e-iframe.md)
-- [Construindo Foodfy](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-foodfy.md)
+- [Primeiro HTML](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md) :heavy_check_mark:
+- [Página de descrição](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md) :heavy_check_mark:
+- [Página de posts e iframe](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-3-pagina-cursos-e-iframe.md) :heavy_check_mark:
+- [Construindo Foodfy](https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-foodfy.md) :heavy_check_mark:
 
 
 ## :movie_camera: Apresentação do Foodfy
